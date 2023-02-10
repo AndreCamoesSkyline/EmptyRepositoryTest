@@ -1,4 +1,4 @@
-# EmptyRepositoryTest
+# Artifact Repository
 *Underneath the title of the artifact, add one short paragraph describing the purpose of the artifact.*
 
 # Information
